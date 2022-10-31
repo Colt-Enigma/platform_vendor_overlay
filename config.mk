@@ -173,7 +173,24 @@ PRODUCT_PACKAGES += \
     AndroidVividTheme \
     AndroidSnowPaintDropTheme \
     AndroidEspressoTheme
-    
+
+# Themes
+PRODUCT_PACKAGES += \
+    BakedGreenSystemOverlay \
+    BakedGreenSystemUIOverlay \
+    ChocoXSystemOverlay \
+    ChocoXSystemUIOverlay \
+    DarkGreySystemOverlay \
+    DarkGreySystemUIOverlay \
+    MaterialOceanSystemOverlay \
+    MaterialOceanSystemUIOverlay \
+    PitchBlackSystemOverlay \
+    PitchBlackSystemUIOverlay \
+    SolarizedDarkSystemOverlay \
+    SolarizedDarkSystemUIOverlay \
+    XtendedClearSystemOverlay \
+    XtendedClearSystemUIOverlay
+
 # Navigation
 PRODUCT_PACKAGES += \
     ImmersiveNavigationOverlay
