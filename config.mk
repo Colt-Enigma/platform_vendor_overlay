@@ -170,6 +170,12 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     QSOutline \
     QSTwoToneAccent \
+    QSShaded \
+    QSCyberPunk \
+    QSNeumorph \
+    QSReflected \
+    QSSurround \
+    QSThin \
     AndroidVividTheme \
     AndroidSnowPaintDropTheme \
     AndroidEspressoTheme
